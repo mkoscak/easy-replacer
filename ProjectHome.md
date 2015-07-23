@@ -1,0 +1,1 @@
+replaces user-defined texts in xml and docx files.
